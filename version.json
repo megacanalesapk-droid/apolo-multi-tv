@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-"versionName": "1.0.4",
-"mandatory": true,
+  "versionCode": 3,
+  "versionName": "1.0.3",
+  "mandatory": true,
   "title": "Actualizacion obligatoria",
   "message": "Hay una nueva version de APOLO MULTI TV.",
-  "apkUrl": "https://github.com/megacanalesapk-droid/mi-apk/releases/download/v1.0/app-release.apk"
+  "apkUrl": "https://drive.google.com/uc?export=download&id=1KWIfnKMZ__foCYT_yztw781l3sDNjaBK"
 }
