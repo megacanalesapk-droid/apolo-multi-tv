@@ -1,1 +1,9 @@
 
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "mandatory": true,
+  "title": "Nueva actualizacion disponible",
+  "message": "Hay una nueva version de APOLO MULTI TV. Actualiza para continuar disfrutando de todos los canales.",
+  "apkUrl": "https://drive.google.com/file/d/1KWIfnKMZ__foCYT_yztw781l3sDNjaBK/view?usp=sharing"
+}
