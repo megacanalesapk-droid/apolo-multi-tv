@@ -1,9 +1,9 @@
 
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
+  "versionCode": 7,
+  "versionName": "1.0.6",
   "mandatory": true,
   "title": "Actualización obligatoria",
   "message": "Hay una nueva versión de APOLO MULTI TV. Actualiza para continuar.",
-  "apkUrl": "https://github.com/megacanalesapk-droid/apolo-multi-tv/releases/download/1.0.5/1.0.5.apk"
+  "apkUrl": "https://github.com/megacanalesapk-droid/apolo-multi-tv/releases/download/1.0.6/app-release.apk"
 }
